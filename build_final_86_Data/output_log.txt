@@ -1,0 +1,50 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.143 seconds
+Platform assembly: C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Geo\Documents\Space Shooter\build_final_86_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.165304 ms
+last Save at 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2bb0 -> priority: 1 
+  Thread -> id: 780 -> priority: 1 
+  Thread -> id: 2394 -> priority: 1 
+  Thread -> id: 2bbc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.592520 ms
+
+Unloading 248 unused Assets to reduce memory usage. Loaded Objects now: 846.
+Total: 1.078664 ms (FindLiveObjects: 0.063960 ms CreateObjectMapping: 0.031598 ms MarkObjects: 0.577683 ms  DeleteObjects: 0.404658 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.762788 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 939.
+Total: 0.817981 ms (FindLiveObjects: 0.042300 ms CreateObjectMapping: 0.031088 ms MarkObjects: 0.675025 ms  DeleteObjects: 0.068802 ms)
+
+last Save at 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
